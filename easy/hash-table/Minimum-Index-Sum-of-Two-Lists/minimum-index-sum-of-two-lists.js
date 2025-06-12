@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/minimum-index-sum-of-two-lists/
 /**
  * @param {string[]} list1
  * @param {string[]} list2
