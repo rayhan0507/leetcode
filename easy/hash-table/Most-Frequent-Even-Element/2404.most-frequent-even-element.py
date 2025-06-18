@@ -5,6 +5,7 @@
 #
 
 # @lc code=start
+from typing import List
 class Solution:
     def mostFrequentEven(self, nums: List[int]) -> int:
         freq = {}
